@@ -1,4 +1,4 @@
-# ETL Process Implementation
+# ETL Pipeline Development
 
 This project demonstrates the complete ETL (Extract, Transform, Load) process using SQL, showcasing data extraction, transformation, and loading into a data warehouse. The project is based on the **Wide World Importers** dataset.
 
