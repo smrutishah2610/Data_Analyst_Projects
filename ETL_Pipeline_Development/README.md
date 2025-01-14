@@ -75,4 +75,4 @@ Follow this sequence for running the ETL process:
 6. Validate the process using `verify.sql`.
 
 ## ETL Process Diagram
-![ETL Process Diagram](ETL_Pipeline_Development/ETL_Process_Diagram.jpg)
+![ETL Process Diagram](/ETL_Pipeline_Development/ETL_Process_Diagram.jpg)
