@@ -12,14 +12,13 @@ This project demonstrates the complete ETL (Extract, Transform, Load) process us
 - [Prerequisites](#prerequisites)
 - [Usage Instructions](#usage-instructions)
 - [ETL Process Diagram](#etl-process-diagram)
-- [Contributors](#contributors)
 
 ## Introduction
 The ETL process involves extracting data from the Wide World Importers operational database, transforming it to meet the business requirements, and loading it into a data warehouse. This project was developed as part of a university assignment to demonstrate understanding and application of ETL principles.
 
 ## Project Structure
 ```plaintext
-ETL/
+ETL_Pipeline_Development/
 ├── ETL/                              # Main ETL SQL scripts
 │   ├── assignment4_5_G16_ETL.sql    # Combined ETL scripts
 ├── WWI_DB/                           # Source database scripts
@@ -76,4 +75,4 @@ Follow this sequence for running the ETL process:
 6. Validate the process using `verify.sql`.
 
 ## ETL Process Diagram
-![ETL Process Diagram](ETL/ETL%20Process%20Diagram.jpg)
+![ETL Process Diagram](/ETL_Pipeline_Development/ETL_Process_Diagram.jpg)
