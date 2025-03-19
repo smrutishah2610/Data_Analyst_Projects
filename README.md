@@ -9,7 +9,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases a curated collec
    - **Tools Used**: Power BI
    - [Project Details](https://github.com/smrutishah2610/Data_Analyst_Projects/tree/main/ABC_Project_PowerBI)
 
-2. **Airbnb Project**
+2. **Airbnb Data Analysis**
    - **Description**: An analysis of Airbnb data to uncover trends and insights related to property listings, pricing, and occupancy rates.
    - **Tools Used**: Tableau
    - [Project Details](https://github.com/smrutishah2610/Data_Analyst_Projects/tree/main/Airbnb_Project)
@@ -19,7 +19,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases a curated collec
    - **Tools Used**: Python, SQL
    - [Project Details](https://github.com/smrutishah2610/Data_Analyst_Projects/tree/main/ETL_Pipeline_Development)
 
-4. **Amazon ETL OLAP ODI**
+4. **Amazon Sales Analysis**
    - **Description**: Implementation of ETL processes and OLAP cubes for Amazon's sales data to facilitate advanced analytics and reporting.
    - **Tools Used**: Oracle Data Integrator (ODI), SQL
    - [Project Details](https://github.com/smrutishah2610/Data_Analyst_Projects/tree/main/amazon_ETL_OLAP_ODI)
