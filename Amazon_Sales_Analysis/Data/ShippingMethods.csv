@@ -1,0 +1,11 @@
+﻿ShippingMethodID,ShippingMethodName
+8,Air Freight
+5,Chilled Van
+2,Courier
+4,Customer Collect
+6,Customer Courier to Collect
+3,Delivery Van
+1,Post
+10,Refrigerated Air Freight
+9,Refrigerated Road Freight
+7,Road Freight
