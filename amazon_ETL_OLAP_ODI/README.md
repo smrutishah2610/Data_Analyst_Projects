@@ -19,7 +19,7 @@ Despite having no prior experience with these tools, our team successfully deliv
 
 ## File Structure
 ```plaintext
-📂 Amazon_ETL_OLAP_ODI
+📂 Amazon_Sales_Analysis
 ├── 📂 Data (CSV files for input data)
 │   ├── Users.csv
 │   ├── Items.csv
