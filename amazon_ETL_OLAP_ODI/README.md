@@ -1,4 +1,4 @@
-# Amazon ETL, OLAP, and ODI Project
+# Amazon Sales Analysis
 
 ## Overview
 This project explores **ETL (Extract, Transform, Load) processes**, **Online Analytical Processing (OLAP)**, and **Oracle Data Integrator (ODI)**. We built a robust data warehouse to analyze Amazon sales data using **Oracle Analytics Workspace Manager** for OLAP cube creation and ODI for automating ETL workflows.
